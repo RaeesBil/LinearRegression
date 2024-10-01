@@ -1,0 +1,7 @@
+Linear Regression:
+Linear Regression is a fundamental algorithm in machine learning used for predictive modeling. It establishes a linear relationship between a dependent variable (target) and one or more independent variables (features). The algorithm aims to minimize the difference between the predicted and actual values by fitting a straight line through the data points. It is highly interpretable and widely used for regression tasks where the output is continuous. Simple Linear Regression involves one predictor, while Multiple Linear Regression deals with multiple predictors
+
+
+
+Dataset:
+This dataset contains demographic and health-related information, such as age, sex, BMI, number of children, smoking habits, and geographic region. The target variable is charges, representing medical costs incurred by individuals. By applying Linear Regression to this dataset, we can predict medical charges based on the individual's characteristics. The goal is to identify the impact of factors like smoking or BMI on medical expenses and estimate future costs for similar individuals.
